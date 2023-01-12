@@ -5,7 +5,6 @@
     Google Chrome   108.0.5359.125 (Официальная сборка), (64 бит) 
     ОС Windows 11 21H2
   steps-to-reproduce: |
-    Полный перечень шагов для воспроизведения, на каком шаге произошла ошибка
     1. Открыть страницу веб-магазина https://hexlet-products-store.vercel.app
     2. Ввести ключевое слово watch в строку Поиск
   expected-result: |
