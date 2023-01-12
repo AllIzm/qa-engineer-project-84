@@ -34,7 +34,7 @@
     ОС Windows 11 21H2
   steps-to-reproduce: |
     1. Открыть страницу веб-магазина https://hexlet-products-store.vercel.app
-    2. Открыть в консоли браузера DevTools (инструмент Toggle device toolbar) с ПК с разрешением 801х658
+    2. Открыть в консоли браузера DevTools (инструмент Toggle device toolbar) с ПК с разрешением 1440х658
     3. Выбрать в выпадающем меню Dimension значение iPhone SE с разрешением 375х667
   expected-result: |
     Основной контент дублируется. 
