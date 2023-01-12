@@ -78,7 +78,7 @@
     Сайт должен быть доступен на различных устройствах
   prerequisites:
     Открыта страница веб-магазина. 
-    Открыт Toggle device toolbar инструмента DevTools с ПК с разрешением 801х658
+    Открыт в консоли браузера DevTools (инструмент Toggle device toolbar) с ПК с разрешением 801х658
       test-data: |
     Dimension = Responsive Dimension = iPhone SE
   steps:
