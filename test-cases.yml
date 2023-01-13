@@ -78,7 +78,7 @@
   prerequisites:
     Открыта страница веб-магазина. 
     Открыт в консоли браузера DevTools (инструмент Toggle device toolbar) с ПК с разрешением 1440х658
-      test-data: |
+  test-data: |
     Dimension = Responsive = 1440 х 658
   steps:
     - Открыть кликом выпадающее меню Dimension
