@@ -94,7 +94,7 @@
   prerequisites:
     Открыта страница веб-магазина 
     Открыт в консоли браузера DevTools (инструмент Toggle device toolbar)
-      test-data: |
+  test-data: |
     Dimension = iPhone SE
   steps:
     - Открыть кликом выпадающее меню Dimension
